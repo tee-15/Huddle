@@ -179,8 +179,9 @@
     }
     .copyright {
         margin-top: -1em;
-        color: hsl(208, 11%, 55%);
+        color: #fff;
         font-size: 40px;
+        margin-left: 10em;
     }
         
         
@@ -364,7 +365,7 @@
         margin-right: 28em;
         list-style-type: none;
         line-height: 3em;
-        font-size: 35px;
+        font-size: 34px;
     }
     section.awesome {
         margin-top: 4em;
@@ -376,9 +377,11 @@
     }
     .copyright {
         margin-top: -1em;
-        color: hsl(208, 11%, 55%);
+        color: #fff;
         font-size: 40px;
+        margin-left: 10em;
     }
+
         
     
 
